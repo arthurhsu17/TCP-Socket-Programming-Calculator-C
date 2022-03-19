@@ -4,6 +4,7 @@ The gist is that there are two programs made, one being the receiver and one bei
 
 ## Server
 To run the server, you have to specify the port that it will run on, in this case I have chosen port' 12007'. Realistically it can be any number above 1023 to 65535, (1024 to 65535) as ports 0 to 1023 are reserved for privileged services and are designated as well-known ports.
+
 `./server 12007`
 
 <img width="561" alt="Screenshot 2022-02-20 at 2 47 34 PM" src="https://user-images.githubusercontent.com/71420919/154848394-c1854834-a0b3-4ce6-8707-e5232fb276c7.png">
