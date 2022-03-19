@@ -8,6 +8,9 @@ The gist is that there are two programs made, one being the receiver and one bei
 As seen above, a connection is established and the server awaits for user import in the client side. 
 
 ## Client
+`Hello`
+
+
 <img width="563" alt="Screenshot 2022-02-20 at 2 47 54 PM" src="https://user-images.githubusercontent.com/71420919/154848395-eca8d532-8bff-4f33-98ec-b256d79a25f6.png">
 
 
